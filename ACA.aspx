@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div style="height: 2170px">
+        <div style="height: 1605px">
 			Please Enter Asset ID:<asp:TextBox ID="AssetID" runat="server"></asp:TextBox>
 			<asp:Button ID="SearchBtn" runat="server" OnClick="SearchBtn_Click" Text="Search" />
 			<br />
